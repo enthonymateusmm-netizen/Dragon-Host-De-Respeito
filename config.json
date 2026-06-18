@@ -1,0 +1,13 @@
+{
+  "clientIdDoBot": "1516839096842977440",
+  "idDoServidor": "1516839255362502868",
+  "donos": [
+    "1501413850627706996"
+  ],
+  "quantidadeMaximaAplicacoes": 25,
+  "qntdMaximaGB": 1000,
+  "iniciarAplicacaoAposUpload": true,
+  "manterAplicacoesOnline": true,
+  "tempoReinicioMs": 3000,
+  "permitirLinksZipExternos": true
+}

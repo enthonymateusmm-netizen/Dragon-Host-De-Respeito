@@ -1,0 +1,14 @@
+{
+  "name": "discord-hospedagem-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord para hospedar e gerenciar outros bots Discord via painel.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
